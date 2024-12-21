@@ -1,0 +1,3 @@
+# Incorrect Enum.reduce Accumulator Handling in Elixir
+
+This repository demonstrates a subtle error that can occur when using Elixir's `Enum.reduce` function. The provided example showcases how improper handling of the accumulator under certain conditions can yield incorrect results. The solution demonstrates how to correctly handle the accumulator for all possible cases, ensuring the function returns the expected outcome.
